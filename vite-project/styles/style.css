@@ -4,6 +4,35 @@
   margin: 0px auto;
 }
 
+body {
+  background-color: cornsilk;
+}
+
 .title{
+  margin-top: 20px;
   text-align: center;
-}`
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  margin-bottom: 30px;  
+}
+
+.placeholder{
+  font-size: 20px;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.card{
+  border: 3px solid black;
+  border-radius: 5px;
+  text-align: center ;
+  padding: 20px;
+}
