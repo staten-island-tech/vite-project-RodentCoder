@@ -1,0 +1,3 @@
+const things = [];
+
+export { array };
