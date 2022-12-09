@@ -26,8 +26,10 @@ body {
 
 .items {
   display: flex;
-  flex-direction: row;
   justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .card{
@@ -35,4 +37,9 @@ body {
   border-radius: 5px;
   text-align: center ;
   padding: 20px;
+  margin-top: 2.5rem;
+  margin-bottom: 5rem;
+  margin-left: 7.5rem;
+  margin-right: 7.5rem;
+  
 }
