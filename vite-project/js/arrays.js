@@ -2,26 +2,32 @@ const Monkeys = [
   {
     name: "Dart Monkey",
     class: "Primary",
-    img: "https://static.wikia.nocookie.net/b__/images/b/b2/000-DartMonkey.png/revision/latest?cb=20190522014750&path-prefix=bloons",
+    img: "https://preview.redd.it/ow76unm0prp71.jpg?width=640&crop=smart&auto=webp&s=27614c57adcb369c92e3367a3c59e6360ab70e4f",
     cost: "215",
   },
   {
     name: "Ninja Monkey",
     class: "Magic",
-    img: "https://static.wikia.nocookie.net/b__/images/2/28/000-NinjaMonkey.png/revision/latest?cb=20190522015010&path-prefix=bloons",
+    img: "https://preview.redd.it/0j6au7yafpl81.png?width=640&crop=smart&auto=webp&s=412ba1e901b345a208e67bb25e025774107ef377",
     cost: "540",
   },
   {
-    name: "Dartling Gunner",
+    name: "M.A.D",
     class: "Military",
-    img: "https://static.wikia.nocookie.net/b__/images/f/f3/000-DartlingGunner.png/revision/latest?cb=20201203034034&path-prefix=bloons",
-    cost: "920",
+    img: "https://i.pinimg.com/originals/81/9a/48/819a48157d4d37a8e134760651f058c8.png",
+    cost: "A billion bananas",
   },
   {
     name: "Banana Farm",
     class: "Support",
-    img: "https://static.wikia.nocookie.net/b__/images/c/cb/000-BananaFarm.png/revision/latest?cb=20190522014608&path-prefix=bloons",
+    img: "https://www.models-resource.com/resources/big_icons/57/56399.png",
     cost: "1325",
+  },
+  {
+    name: "Monkey with gun",
+    class: "Military",
+    img: "https://foreignpolicy.com/wp-content/uploads/2016/02/hqdefault.jpg?w=480",
+    cost: "free",
   },
 ];
 
