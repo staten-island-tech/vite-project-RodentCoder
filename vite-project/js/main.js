@@ -8,6 +8,10 @@ import "aos/dist/aos.css"; // You can also use <link> for styles
 
 AOS.init();
 
+Doms.Dark.addEventListener("click", function () {
+  document.body.classList.add("darkmode");
+});
+
 Doms.Sup.addEventListener("click", () => {
   (Doms.items.innerHTML = ""),
     Monkeys.filter(isSup).forEach((el) =>
