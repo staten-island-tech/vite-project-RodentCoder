@@ -29,6 +29,18 @@ const Monkeys = [
     img: "https://foreignpolicy.com/wp-content/uploads/2016/02/hqdefault.jpg?w=480",
     cost: "free",
   },
+  {
+    name: "Down Syndrome",
+    class: "Support",
+    img: "https://images.labroots.com/content_article_profile_image_489113a7ec27dd46103f7de53d0f026dd97996bd_4835.jpg",
+    cost: "1",
+  },
+  {
+    name: "Monkey Plush",
+    class: "Primary",
+    img: "https://m.media-amazon.com/images/I/71dVYrXFi8L.jpg",
+    cost: "215",
+  },
 ];
 
 export { Monkeys };
