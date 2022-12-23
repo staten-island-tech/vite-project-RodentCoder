@@ -36,9 +36,6 @@ body {
   margin-bottom: 30px;  
 }
 
-.Dark {]
-}
-
 .placeholder{
   font-size: 20px;
 }
@@ -65,7 +62,7 @@ body {
 }
 
 .card:hover {
-  
+  transform: scale(1.1);
 }
 
 .monkey{
