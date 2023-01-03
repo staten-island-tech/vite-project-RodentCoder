@@ -41,6 +41,12 @@ const Monkeys = [
     img: "https://m.media-amazon.com/images/I/71dVYrXFi8L.jpg",
     cost: "215",
   },
+  {
+    name: "Rat Monkey",
+    class: "Magic",
+    img: "https://static1.srcdn.com/wordpress/wp-content/uploads/2016/09/Sumatran-Rat-Monkey-from-Dead-Alive.jpg",
+    cost: "300"
+  }
 ];
 
 export { Monkeys };
