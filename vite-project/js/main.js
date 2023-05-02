@@ -9,6 +9,7 @@ import "aos/dist/aos.css"; // You can also use <link> for styles
 AOS.init();
 
 console.log("man");
+console.log(Doms.Dark)
 
 Doms.Dark.addEventListener("click", function () {
   if (document.body.classList.contains("whitemode")) {
